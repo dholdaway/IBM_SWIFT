@@ -1,6 +1,9 @@
 [![Build Status - Master](https://travis-ci.org/IBM-Bluemix/swift-helloworld.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/swift-helloworld)
 ![macOS](https://img.shields.io/badge/os-macOS-green.svg?style=flat)
 ![Linux](https://img.shields.io/badge/os-linux-green.svg?style=flat)
+[![Dependency Status](https://dependencyci.com/github/dholdaway/IBM_SWIFT/badge)](https://dependencyci.com/github/dholdaway/IBM_SWIFT)
+
+BLAH BLAH BBLAH
 
 #Swift HelloWorld App Overview
 This project contains a simple Swift hello world application that can be deployed to Bluemix or run locally on your [OS X](http://www.apple.com/osx/) or [Ubuntu Linux](http://www.ubuntu.com/download) system.  This sample application creates a basic server that returns an HTML greeting to the client.  Please note that this is not a production-ready application.  Instead, it is for educational purposes to learn about the types of applications you can develop using the Swift programming language.
